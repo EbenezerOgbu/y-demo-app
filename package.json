@@ -1,7 +1,7 @@
 {
-  "name": "framework7-react-app-template",
-  "version": "3.0.0",
-  "private": true,
+  "name": "yoello-demo-app",
+  "version": "1.0.0",
+  "private": false,
   "dependencies": {
     "framework7": "^3.4.0",
     "framework7-icons": "^0.9.1",
@@ -11,7 +11,7 @@
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
     "react-redux": "^5.0.7",
-    "react-scripts": "2.0.0-next.66cc7a90",
+    "react-scripts": "^2.1.8",
     "redux": "^4.0.0",
     "redux-thunk": "^2.3.0"
   },
