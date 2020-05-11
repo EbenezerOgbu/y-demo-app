@@ -8,7 +8,7 @@ const initialState = {
   birthdate: '1999-04-05',
   toggle: false,
   slider: 50,
-  textArea: '',
+  textArea: '', 
   resizable: '',
   checkboxGroup: {
     checkbox1: false,
